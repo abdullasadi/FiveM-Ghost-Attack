@@ -43,5 +43,4 @@ Drag and Drop In Your Resource Folder
 - [Japanese Job](https://kael.tebex.io/package/5617380)
 - [Duplicate Anti](https://kael.tebex.io/package/5534122)
 - [Advanced Item Rob](https://kael.tebex.io/package/5549462)
-- [Advanced Item Rob](https://kael.tebex.io/package/5549462)
 - [GPS Tracker](https://forum.cfx.re/t/fivem-gps-tracker-by-kael-scripts/5098948/1)
