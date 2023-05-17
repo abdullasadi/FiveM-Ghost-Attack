@@ -14,7 +14,7 @@ Is It Night? and your stress high? you better run..
 ![banner2](https://github.com/abdullasadi/FiveM-Ghost-Attack/assets/17822126/0fa7cf21-870a-407b-bdff-bba81e7e24d5)
 
 ## Preview
-- [Youtube]()
+- [Youtube](https://youtu.be/pgYuV1C04eE)
 
 ## INSTALL
 
