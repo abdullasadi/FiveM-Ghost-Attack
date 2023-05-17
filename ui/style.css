@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: transparent;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+body {
+    display: none;
+}
+
+.background {
+    content:'';
+    position: absolute;
+    width: 750px;
+    height: 1000px;
+    left: 50%;
+    top: 50% !important;
+    transform: translate(-50%, -50%);    
+    background-position: 7px 0;
+    opacity: 0.5;
+    background-size: cover;
+    animation: animate .5s infinite;
+}
+
+
+
+@keyframes animate{
+    0% {
+        background-position: 0 0;
+        filter: hue-rotate(0deg);
+    }
+    10% {
+        background-position: 4px 0;
+    }
+    20% {
+        background-position: -4px 0;
+    }
+    30% {
+        background-position: 12px 0;
+    }
+    40% {
+        background-position: -16px 0;
+    }
+    50% {
+        background-position: -24px 0;
+    }
+    50% {
+        background-position: -52px 0;
+    }
+    60% {
+        background-position: 0 22px;
+    }
+    70% {
+        background-position: -40px -10px;
+    }
+        80% {
+        background-position: -24px 0;
+    }
+        90% {
+        background-position: -24px 0;
+    }
+        100% {
+        background-position:  0 0;
+        filter: hue-rotate(360deg);
+    }
+}
