@@ -1,16 +1,18 @@
 ![Ghost_Attack-01](https://github.com/abdullasadi/FiveM-Ghost-Attack/assets/17822126/0bb096b0-555c-4353-bf57-1e7f98b95017)
 
 ### Fivem Ghost Attack Script Made By Kael Scripts
-![banner1|690x38](upload://hNXGJQiXnTRCoiVLiP00V90sA4o.jpeg)
+
 Is It Night? and your stress high? you better run..
 
+![banner1](https://github.com/abdullasadi/FiveM-Ghost-Attack/assets/17822126/91c16d01-8733-491f-9a1a-5783d02311e3)
 ## Features
 - Easy Configuration
 - 0.0 Resmon
 - Dynamic Ghost Effects
 - Jumpscare
 
-![banner2|690x38](upload://qOCCdW7F51qCAeTU8FsxDgMLCDu.jpeg)
+![banner2](https://github.com/abdullasadi/FiveM-Ghost-Attack/assets/17822126/0fa7cf21-870a-407b-bdff-bba81e7e24d5)
+
 ## Preview
 - [Youtube]()
 
@@ -28,7 +30,8 @@ Drag and Drop In Your Resource Folder
 - [qb-target](https://github.com/qbcore-framework/qb-target)
 - [qb-menu](https://github.com/qbcore-framework/qb-menu)
 
-![banner3|690x38](upload://dVqwhKHzHsJ1eeQpxCz3GaTkjyG.jpeg)
+![banner3](https://github.com/abdullasadi/FiveM-Ghost-Attack/assets/17822126/8aad9af1-988e-45e9-9731-7f032f3936f9)
+
 ## More From Kael Scripts
 - [Illegal Cargo Delivery](https://kael.tebex.io/package/5642002)
 - [Pearls Job](https://kael.tebex.io/package/5672502)
