@@ -1,8 +1,5 @@
 Config = {
     Core = 'qb-core',
-    Target = 'qb-target',
-    Menu = 'qb-menu',
-    Input = 'qb-input',
 }
 
 Config.GhsotAttackInterval = 20000
