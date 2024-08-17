@@ -3,14 +3,10 @@ lua54 'yes'
 games { 'gta5' }
 author 'Kael Scripts'
 description 'A Script For Night xD'
-version '1.0.0'
+version '1.0.1'
 
 client_scripts {
     'client/**.lua',
-}
-
-server_scripts {
-    'server/**.lua',
 }
 
 shared_scripts {
